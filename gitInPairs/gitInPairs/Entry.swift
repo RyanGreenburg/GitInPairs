@@ -1,0 +1,20 @@
+//
+//  Entry.swift
+//  gitInPairs
+//
+//  Created by RYAN GREENBURG on 10/22/19.
+//  Copyright © 2019 RYAN GREENBURG. All rights reserved.
+//
+
+import Foundation
+
+class Entry {
+    
+    var body: String
+    var timestamp: Date
+    
+    init(body: String, timestamp: Date = Date()) {
+        self.body = body
+        self.timestamp = timestamp
+    }
+}
