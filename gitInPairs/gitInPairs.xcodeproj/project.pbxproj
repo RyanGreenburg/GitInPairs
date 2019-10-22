@@ -67,10 +67,42 @@
 				62FC44CA235F96BF0092D966 /* Assets.xcassets */,
 				62FC44CC235F96BF0092D966 /* LaunchScreen.storyboard */,
 				62FC44CF235F96BF0092D966 /* Info.plist */,
-				62FC44D5235F984A0092D966 /* Entry.swift */,
-				5855E558235F9A3500AD6FE9 /* EntryController.swift */,
+				62FC44D7235F9D340092D966 /* Models */,
+				62FC44D8235F9D390092D966 /* Controllers */,
 			);
 			path = gitInPairs;
+			sourceTree = "<group>";
+		};
+		62FC44D7235F9D340092D966 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				62FC44D5235F984A0092D966 /* Entry.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		62FC44D8235F9D390092D966 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				62FC44DA235F9D490092D966 /* ViewControllers */,
+				62FC44D9235F9D3F0092D966 /* ModelControllers */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		62FC44D9235F9D3F0092D966 /* ModelControllers */ = {
+			isa = PBXGroup;
+			children = (
+				5855E558235F9A3500AD6FE9 /* EntryController.swift */,
+			);
+			path = ModelControllers;
+			sourceTree = "<group>";
+		};
+		62FC44DA235F9D490092D966 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
