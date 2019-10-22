@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+class EntryController {
+    /**
+     MARCUS WHY HAVE YOU FORSAKEN ME
+     */
+}
