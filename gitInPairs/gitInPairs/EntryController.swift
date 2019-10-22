@@ -9,7 +9,10 @@
 import Foundation
 
 class EntryController {
-    /**
-     MARCUS WHY HAVE YOU FORSAKEN ME
-     */
+    
+    // IN MY EYES FORSAKEN ME
+    // IN MY HEART FORSAKEN ME
+    // SELF RIGHTEOUS SUICIDE
+    
+
 }
