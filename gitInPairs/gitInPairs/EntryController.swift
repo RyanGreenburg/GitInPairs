@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+class EntryController {
+    
+    // IN MY EYES FORSAKEN ME
+    // IN MY HEART FORSAKEN ME
+    // SELF RIGHTEOUS SUICIDE
+    
+}
