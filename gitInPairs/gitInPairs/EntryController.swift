@@ -14,4 +14,5 @@ class EntryController {
     // IN MY HEART FORSAKEN ME
     // SELF RIGHTEOUS SUICIDE
     
+
 }
